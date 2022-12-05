@@ -1,0 +1,1 @@
+2022/12/06 04:11:03 [error] 15052#8416: *42433 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /register/ HTTP/1.0", upstream: "fastcgi://127.0.0.1:10002", host: "street-choice.local", referrer: "http://street-choice.local/"
